@@ -2118,7 +2118,7 @@ img {
         font-size: 1.1rem;
         text-align: center;
         padding: 5px 20px 5px 20px;
-        border: greenyellow 2px solid;
+        border: greenyellow 0px solid;
     }
 
     .callButton {
