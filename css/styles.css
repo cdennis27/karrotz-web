@@ -27,8 +27,8 @@
 
     --modalBg: rgba(255, 34, 0, 0.302);
     --modalButtons: #ea4630;
-    --bannerTitle: rgba(255, 255, 255);
-    --bannerSubtitle: rgb(210, 199, 253);
+    --bannerTitle: rgb(255, 155, 124);
+    --bannerSubtitle: rgb(253, 173, 142);
     --bannerGradient: (to right, rgb(163, 169, 169), rgb(51, 105, 105));
     --bannerGradient1: rgba(89, 18, 0, 0.907);
     --bannerGradient2: rgb(12, 2, 0);
@@ -491,7 +491,7 @@ img {
     align-items: center;
     z-index: 1;
     padding: 0 0px 0 0px;
-    background-image: url("../assets/images/button4.jpg");
+    background-image: url("../assets/images/button2.jpg");
 
     background-size: cover;
     background-position: center;
